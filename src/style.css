@@ -1,0 +1,33 @@
+#main {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  transition: all 0.5s linear;
+}
+
+#background {
+  background-image: url(./backdrop.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 100%;
+  filter: opacity(0.025);
+  animation: movingtext 100s linear infinite;
+}
+
+#container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 5;
+}
+
+@keyframes movingtext {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 100% 0;
+  }
+}
