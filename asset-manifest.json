@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/NoPunIntended/static/css/main.6561662f.chunk.css",
+    "main.js": "/NoPunIntended/static/js/main.8ec43f90.chunk.js",
+    "main.js.map": "/NoPunIntended/static/js/main.8ec43f90.chunk.js.map",
+    "runtime-main.js": "/NoPunIntended/static/js/runtime-main.7f0f9547.js",
+    "runtime-main.js.map": "/NoPunIntended/static/js/runtime-main.7f0f9547.js.map",
+    "static/js/2.1f942803.chunk.js": "/NoPunIntended/static/js/2.1f942803.chunk.js",
+    "static/js/2.1f942803.chunk.js.map": "/NoPunIntended/static/js/2.1f942803.chunk.js.map",
+    "index.html": "/NoPunIntended/index.html",
+    "static/css/main.6561662f.chunk.css.map": "/NoPunIntended/static/css/main.6561662f.chunk.css.map",
+    "static/js/2.1f942803.chunk.js.LICENSE.txt": "/NoPunIntended/static/js/2.1f942803.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/NoPunIntended/static/media/backdrop.bb25d759.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f0f9547.js",
+    "static/js/2.1f942803.chunk.js",
+    "static/css/main.6561662f.chunk.css",
+    "static/js/main.8ec43f90.chunk.js"
+  ]
+}
